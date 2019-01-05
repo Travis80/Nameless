@@ -1,0 +1,4 @@
+git pull <url>
+[do shit]
+git -am "lil info"
+git push <url> <branch>
